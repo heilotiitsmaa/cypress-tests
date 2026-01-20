@@ -17,3 +17,6 @@ See projekt sisaldab automaatteste Postimees.ee uudisteportaalile, kasutades Cyp
 ## Testide käivitamine
 * Visuaalne režiim: `npx cypress open`
 * Headless režiim: `npx cypress run`
+VÕI (samaväärsed käsud, ilma skriptita)
+* 'npm run cypress:open'
+* 'npm test'
